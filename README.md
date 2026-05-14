@@ -242,7 +242,7 @@ Las canciones más escuchadas no aparecen en loop dentro de una misma sesión,
 sino distribuidas en múltiples sesiones distintas. "Unconditional" (Foo Fighters)
 fue escuchada 14 veces en 5 sesiones diferentes — indicando escucha activa
 y atencional, no reproducción pasiva.
-Esto se puede explicar sencillamente que cuando escucho una canción nueva, o descubro una canción que me gusta, me llego a obsesionar y a darle un hiperfocus a esa cancioón hasta poder sacarle todos los detalles.
+
 
 
 ![Dashboard](dashboard.png)
